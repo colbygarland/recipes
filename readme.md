@@ -7,3 +7,5 @@
 #### [Brownies](./brownies.md)
 
 #### [Preztels](./pretzels.md)
+
+#### [Cinnamon Buns](./cinnamon-buns.md)
